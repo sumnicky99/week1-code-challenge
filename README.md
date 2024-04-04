@@ -1,4 +1,4 @@
-# (Project Name)
+# (  Week1-code-challenge)
   week1-code-challenge
 #### Date, 2024/04/04
 
@@ -42,7 +42,7 @@ https://github.com/sumnicky99/week1-code-challenge/edit/main/README.md
 ```
 
 # Live Link
-[Git](gh-pages link)
+https://github.com/sumnicky99/week1-code-challenge/edit/main/README.md
 
 ## Technologies used
 Node Runtime Environment
